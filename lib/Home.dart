@@ -15,6 +15,7 @@ class _HomeState extends State<Home> {
   int _indiceAtual = 0;
   @override
   Widget build(BuildContext context) {
+    // ./telas
     List<Widget> telas = [
       Inicio(),
       EmAlta(),
